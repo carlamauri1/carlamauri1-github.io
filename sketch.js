@@ -13,7 +13,7 @@ function draw() {
 
 
 
-  fill("orange");
+  fill("blue");
   textSize(32);
   text ("happy Copenhagen", 100,100);
 

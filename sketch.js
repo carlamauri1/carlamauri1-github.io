@@ -8,8 +8,10 @@ function draw() {
   // ellipse(40,40,40,40);
 
   background('green');
-  fill("red"); 
+  fill("orange");
   ellipse(mouseX,mouseY,40,40);
+
+
 
   fill("orange");
   textSize(32);
